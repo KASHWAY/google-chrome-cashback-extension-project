@@ -1,0 +1,48 @@
+{
+    "Home": {
+      "message": "خانه"
+    },
+    "Shops_footer": {
+        "message": "مغازه ها"
+      },
+      "Earn_footer": {
+        "message": "پول درآوردن"
+      },
+      "Earn_profile": {
+        "message": "مشخصات"
+      },
+      "settings_text": {
+        "message": "تنظیمات"
+      },
+      "settings_lang": {
+        "message": "تغییر زبان"
+      },
+      "theme_text": {
+        "message": "حالت تاریک"
+      },
+      "sign_in_button": {
+        "message": "وارد شدن"
+      },
+      "register_button": {
+        "message": "ثبت نام"
+      },
+      "login_text": {
+        "message": "برای استفاده از افزونه بازگشت نقدی ما وارد شوید یا ثبت نام کنید"
+      },
+      "pw_main_button": {
+        "message": "فعال کردن Cashback"
+      },
+      "pw_main_button_ac": {
+        "message": "بازگشت نقدی فعال شد"
+      },
+  
+  
+
+
+
+
+    
+    "jezyk": {
+      "message": "‏فارسی‏"
+    }
+  }

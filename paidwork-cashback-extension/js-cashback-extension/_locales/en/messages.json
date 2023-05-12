@@ -1,0 +1,48 @@
+{
+    "Home": {
+      "message": "Home"
+    },
+    "Shops_footer": {
+        "message": "Shops"
+      },
+      "Earn_footer": {
+        "message": "Earn"
+      },
+      "Earn_profile": {
+        "message": "Profile"
+      },
+      "settings_text": {
+        "message": "Settings"
+      },
+      "settings_lang": {
+        "message": "Change language"
+      },
+      "theme_text": {
+        "message": "Dark Mode"
+      },
+      "sign_in_button": {
+        "message": "Sign-In"
+      },
+      "register_button": {
+        "message": "Register"
+      },
+      "login_text": {
+        "message": "Login Or Register to use our cashback plugin"
+      },
+      "pw_main_button": {
+        "message": "Activate Cashback"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback Activated"
+      },
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "English (United States)"
+    }
+  }

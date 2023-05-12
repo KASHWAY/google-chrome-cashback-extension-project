@@ -1,0 +1,50 @@
+{
+    "Home": {
+      "message": "Loger"
+    },
+    "Shops_footer": {
+        "message": "Magasins"
+      },
+      "Earn_footer": {
+        "message": "Faire de l'argent"
+      },
+      "Earn_profile": {
+        "message": "Profil"
+      },
+      "settings_text": {
+        "message": "Paramètres"
+      },
+      "settings_lang": {
+        "message": "Changer de langue"
+      },
+      "theme_text": {
+        "message": "Mode sombre"
+      },
+      "sign_in_button": {
+        "message": "Connexion"
+      },
+      "register_button": {
+        "message": "Enregistrer"
+      },
+      "login_text": {
+        "message": "Connectez-vous ou inscrivez-vous pour utiliser notre plugin de cashback"
+      },
+      "pw_main_button": {
+        "message": "« Activer le remboursement »"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback activé"
+      },
+  
+  
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Français"
+    }
+  }

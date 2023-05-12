@@ -1,0 +1,49 @@
+{
+  "Home": {
+    "message": "Kuća"
+  },
+  "Shops_footer": {
+      "message": "Trgovine"
+    },
+    "Earn_footer": {
+      "message": "Zaraditi novac"
+    },
+    "Earn_profile": {
+      "message": "Profil"
+    },
+    "settings_text": {
+      "message": "postavke"
+    },
+    "settings_lang": {
+      "message": "Promijeni jezik"
+    },
+    "theme_text": {
+      "message": "Tamni način rada"
+    },
+    "sign_in_button": {
+      "message": "Prijaviti se"
+    },
+    "register_button": {
+      "message": "Registar"
+    },
+    "login_text": {
+      "message": "Prijavite se ili se registrirajte za korištenje našeg dodatka za povrat novca"
+    },
+    "pw_main_button": {
+      "message": "Cashback aktiválása"
+    },
+    "pw_main_button_ac": {
+      "message": "Cashback aktiválva"
+    },
+
+
+
+
+
+
+
+
+  "jezyk": {
+    "message": "English (United States)"
+  }
+}

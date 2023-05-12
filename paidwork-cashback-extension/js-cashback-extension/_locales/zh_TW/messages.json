@@ -1,0 +1,49 @@
+{
+  "Home": {
+    "message": "房子"
+  },
+  "Shops_footer": {
+      "message": "商店"
+    },
+    "Earn_footer": {
+      "message": "挣钱"
+    },
+    "Earn_profile": {
+      "message": "轮廓"
+    },
+    "settings_text": {
+      "message": "设置"
+    },
+    "settings_lang": {
+      "message": "改变语言"
+    },
+    "theme_text": {
+      "message": "深色模式"
+    },
+    "sign_in_button": {
+      "message": "登录"
+    },
+    "register_button": {
+      "message": "登记"
+    },
+    "login_text": {
+      "message": "登录或注册以使用我们的现金返还插件"
+    },
+    "pw_main_button": {
+      "message": "激活现金返还"
+    },
+    "pw_main_button_ac": {
+      "message": "现金返还激活"
+    },
+
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "中文（簡體）"
+    }
+  }

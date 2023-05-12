@@ -1,0 +1,48 @@
+{
+    "Home": {
+      "message": "σπίτι"
+    },
+    "Shops_footer": {
+        "message": "Καταστήματα"
+      },
+      "Earn_footer": {
+        "message": "Βγάζω λεφτά"
+      },
+      "Earn_profile": {
+        "message": "Προφίλ"
+      },
+      "settings_text": {
+        "message": "Ρυθμίσεις"
+      },
+      "settings_lang": {
+        "message": "Αλλαξε γλώσσα"
+      },
+      "theme_text": {
+        "message": "Σκοτεινή λειτουργία"
+      },
+      "sign_in_button": {
+        "message": "Σύνδεση"
+      },
+      "register_button": {
+        "message": "Κανω ΕΓΓΡΑΦΗ"
+      },
+      "login_text": {
+        "message": "Συνδεθείτε ή Εγγραφείτε για να χρησιμοποιήσετε το πρόσθετο επιστροφής χρημάτων"
+      },
+      "pw_main_button": {
+        "message": "Activate Cashback"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback Activated"
+      },
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Polski"
+    }
+  }

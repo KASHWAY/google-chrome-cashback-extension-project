@@ -1,0 +1,50 @@
+{
+    "Home": {
+      "message": "Maja"
+    },
+    "Shops_footer": {
+        "message": "Poed"
+      },
+      "Earn_footer": {
+        "message": "Raha teenida"
+      },
+      "Earn_profile": {
+        "message": "Profiil"
+      },
+      "settings_text": {
+        "message": "Seaded"
+      },
+      "settings_lang": {
+        "message": "Muuda keelt"
+      },
+      "theme_text": {
+        "message": "Tume režiim"
+      },
+      "sign_in_button": {
+        "message": "Logi sisse"
+      },
+      "register_button": {
+        "message": "Registreeri"
+      },
+      "login_text": {
+        "message": "Logige sisse või registreeruge, et kasutada meie cashbacki pistikprogrammi"
+      },
+      "pw_main_button": {
+        "message": "Activate Cashback"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback Activated"
+      },
+  
+
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "English (United States)"
+    }
+  }

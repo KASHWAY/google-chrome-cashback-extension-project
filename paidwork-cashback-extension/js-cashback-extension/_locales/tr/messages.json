@@ -1,0 +1,49 @@
+{
+    "Home": {
+      "message": "Ev"
+    },
+    "Shops_footer": {
+        "message": "Mağazalar"
+      },
+      "Earn_footer": {
+        "message": "Para kazanmak"
+      },
+      "Earn_profile": {
+        "message": "Profil"
+      },
+      "settings_text": {
+        "message": "Ayarlar"
+      },
+      "settings_lang": {
+        "message": "Dili değiştir"
+      },
+      "theme_text": {
+        "message": "Karanlık Mod"
+      },
+      "sign_in_button": {
+        "message": "Giriş yapmak"
+      },
+      "register_button": {
+        "message": "Kayıt olmak"
+      },
+      "login_text": {
+        "message": "Geri ödeme eklentimizi kullanmak için Giriş Yapın veya Kayıt Olun"
+      },
+      "pw_main_button": {
+        "message": "Geri Ödemeyi Etkinleştir"
+      },
+      "pw_main_button_ac": {
+        "message": "Geri Ödeme Etkinleştirildi"
+      },
+  
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Türkçe"
+    }
+  }

@@ -1,0 +1,49 @@
+{
+    "Home": {
+      "message": "Будинок"
+    },
+    "Shops_footer": {
+        "message": "Магазини"
+      },
+      "Earn_footer": {
+        "message": "Заробляти гроші"
+      },
+      "Earn_profile": {
+        "message": "Профіль"
+      },
+      "settings_text": {
+        "message": "Налаштування"
+      },
+      "settings_lang": {
+        "message": "Змінити мову"
+      },
+      "theme_text": {
+        "message": "Темний режим"
+      },
+      "sign_in_button": {
+        "message": "Логін"
+      },
+      "register_button": {
+        "message": "зареєструватися"
+      },
+      "login_text": {
+        "message": "Увійдіть або зареєструйтеся, щоб використовувати наш плагін повернення грошей"
+      },
+      "pw_main_button": {
+        "message": "«Активувати Кешбек»"
+      },
+      "pw_main_button_ac": {
+        "message": "«Кешбек активовано»"
+      },
+  
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Українська"
+    }
+  }

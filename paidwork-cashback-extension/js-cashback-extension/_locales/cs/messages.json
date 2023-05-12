@@ -1,0 +1,48 @@
+{
+    "Home": {
+      "message": "Dům"
+    },
+    "Shops_footer": {
+        "message": "Obchody"
+      },
+      "Earn_footer": {
+        "message": "Vydělat peníze"
+      },
+      "Earn_profile": {
+        "message": "Profil"
+      },
+      "settings_text": {
+        "message": "Nastavení"
+      },
+      "settings_lang": {
+        "message": "Změnit jazyk"
+      },
+      "theme_text": {
+        "message": "Tmavý režim"
+      },
+      "sign_in_button": {
+        "message": "ZPřihlásit se"
+      },
+      "register_button": {
+        "message": "Registrovat"
+      },
+      "login_text": {
+        "message": "Přihlaste se nebo se zaregistrujte, abyste mohli používat náš cashback plugin"
+      },
+      "pw_main_button": {
+        "message": "Activate Cashback"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback Activated"
+      },
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Polski"
+    }
+  }

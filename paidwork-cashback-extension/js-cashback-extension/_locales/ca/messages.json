@@ -1,0 +1,48 @@
+{
+    "Home": {
+      "message": "Casa"
+    },
+    "Shops_footer": {
+        "message": "Botigues"
+      },
+      "Earn_footer": {
+        "message": "Fer diners"
+      },
+      "Earn_profile": {
+        "message": "Perfil"
+      },
+      "settings_text": {
+        "message": "Configuració"
+      },
+      "settings_lang": {
+        "message": "Canviar d'idioma"
+      },
+      "theme_text": {
+        "message": "Mode fosc"
+      },
+      "sign_in_button": {
+        "message": "iniciar Sessió"
+      },
+      "register_button": {
+        "message": "Registra't"
+      },
+      "login_text": {
+        "message": "Inicieu sessió o registreu-vos per utilitzar el nostre connector de devolució de diners"
+      },
+      "pw_main_button": {
+        "message": "Activate Cashback"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback Activated"
+      },
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Polski"
+    }
+  }

@@ -1,0 +1,49 @@
+{
+  "Home": {
+    "message": "Casa"
+  },
+  "Shops_footer": {
+      "message": "lojas"
+    },
+    "Earn_footer": {
+      "message": "Fazer dinheiro"
+    },
+    "Earn_profile": {
+      "message": "Perfil"
+    },
+    "settings_text": {
+      "message": "Configurações"
+    },
+    "settings_lang": {
+      "message": "Mudar idioma"
+    },
+    "theme_text": {
+      "message": "Modo Escuro"
+    },
+    "sign_in_button": {
+      "message": "Conecte-se"
+    },
+    "register_button": {
+      "message": "Registro"
+    },
+    "login_text": {
+      "message": "Faça login ou registre-se para usar nosso plugin de cashback"
+    },
+    "pw_main_button": {
+      "message": "Ativar Reembolso"
+    },
+    "pw_main_button_ac": {
+      "message": "Cashback ativado"
+    },
+
+
+
+
+
+
+
+
+  "jezyk": {
+    "message": "Português (Portugal)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+    "Home": {
+      "message": "Casa"
+    },
+    "Shops_footer": {
+        "message": "Magazine"
+      },
+      "Earn_footer": {
+        "message": "A face bani"
+      },
+      "Earn_profile": {
+        "message": "Profil"
+      },
+      "settings_text": {
+        "message": "Setări"
+      },
+      "settings_lang": {
+        "message": "Schimbați limba"
+      },
+      "theme_text": {
+        "message": "Modul întunecaty"
+      },
+      "sign_in_button": {
+        "message": "Log in"
+      },
+      "register_button": {
+        "message": "Inregistreaza-te"
+      },
+      "login_text": {
+        "message": "Conectați-vă sau înregistrați-vă pentru a utiliza pluginul nostru cashback"
+      },
+      "pw_main_button": {
+        "message": "Activați cashback"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback activat"
+      },
+  
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Română"
+    }
+  }

@@ -1,0 +1,49 @@
+{
+    "Home": {
+      "message": "Namas"
+    },
+    "Shops_footer": {
+        "message": "Parduotuvės"
+      },
+      "Earn_footer": {
+        "message": "Užsidirbti pinigų"
+      },
+      "Earn_profile": {
+        "message": "Profilis"
+      },
+      "settings_text": {
+        "message": "Nustatymai"
+      },
+      "settings_lang": {
+        "message": "Pakeisti KALBĄ"
+      },
+      "theme_text": {
+        "message": "Tamsusis režimas"
+      },
+      "sign_in_button": {
+        "message": "Prisijungti"
+      },
+      "register_button": {
+        "message": "Registruotis"
+      },
+      "login_text": {
+        "message": "Prisijunkite arba užsiregistruokite, kad galėtumėte naudotis mūsų grynųjų pinigų grąžinimo papildiniu"
+      },
+      "pw_main_button": {
+        "message": "Aktivizēt naudas atmaksu"
+      },
+      "pw_main_button_ac": {
+        "message": "Naudas atmaksa aktivizēta"
+      },
+  
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Tiếng Việti"
+    }
+  }

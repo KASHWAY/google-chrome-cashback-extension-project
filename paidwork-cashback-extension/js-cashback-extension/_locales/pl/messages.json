@@ -1,0 +1,49 @@
+{
+    "Home": {
+      "message": "Dom"
+    },
+    "Shops_footer": {
+        "message": "Sklepy"
+      },
+      "Earn_footer": {
+        "message": "Zarabiaj"
+      },
+      "Earn_profile": {
+        "message": "Profil"
+      },
+      "settings_text": {
+        "message": "Ustawienia"
+      },
+      "settings_lang": {
+        "message": "Zmień Język"
+      },
+      "theme_text": {
+        "message": "Tryb Ciemny"
+      },
+      "sign_in_button": {
+        "message": "Zaloguj"
+      },
+      "register_button": {
+        "message": "Zajerestruj"
+      },
+      "login_text": {
+        "message": "Zaloguj się Lub Zajerestruj aby korzystać z naszej wtyczki cashback"
+      },
+      "pw_main_button": {
+        "message": "Aktywuj Cashback"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback Aktywowany"
+      },
+      
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Polski"
+    }
+  }

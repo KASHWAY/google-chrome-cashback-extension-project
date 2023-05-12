@@ -1,0 +1,1 @@
+# paidwork-cashback-extension

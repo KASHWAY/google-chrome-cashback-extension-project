@@ -1,0 +1,48 @@
+{
+    "Home": {
+      "message": "ቤት"
+    },
+    "Shops_footer": {
+        "message": "ሱቆች"
+      },
+      "Earn_footer": {
+        "message": "ገንዘብ አግኝ"
+      },
+      "Earn_profile": {
+        "message": "መገለጫ"
+      },
+      "settings_text": {
+        "message": "ቅንብሮች"
+      },
+      "settings_lang": {
+        "message": "ቋንቋ ቀይር"
+      },
+      "theme_text": {
+        "message": "ጨለማ ሁነታ"
+      },
+      "sign_in_button": {
+        "message": "ይመዝገቡ"
+      },
+      "register_button": {
+        "message": "ግባ"
+      },
+      "login_text": {
+        "message": "ይመዝገቡየእኛን cashback ተሰኪ ለመጠቀም ይግቡ ወይም ይመዝገቡ"
+      },
+      "pw_main_button": {
+        "message": "የገንዘብ ተመላሽ አግብር"
+      },
+      "pw_main_button_ac": {
+        "message": "ገንዘብ ተመላሽ ነቅቷል"
+      },
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "English (United States)"
+    }
+  }

@@ -1,0 +1,35 @@
+.pw_box {
+    height: 6%;
+    width: 3.5%;
+    z-index: 9999;
+    position: fixed;
+    top: 40%;
+    right: -10px; 
+    border-radius: 10px;
+    background-color: white;
+    overflow: hidden;
+    box-shadow: 1px 1px 2px 2px #D4D4D4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.pw_box:hover {
+    cursor: pointer;
+}
+.pw_box_content {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.pw_box_content:hover {
+    height: 90%;
+    width: 90%;
+}
+.pw_box_content_img {
+    height: 80%; 
+    width: 80%;
+}

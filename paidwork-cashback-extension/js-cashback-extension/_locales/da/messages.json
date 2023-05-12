@@ -1,0 +1,48 @@
+{
+    "Home": {
+      "message": "Hus"
+    },
+    "Shops_footer": {
+        "message": "Butikker"
+      },
+      "Earn_footer": {
+        "message": "Lave penge"
+      },
+      "Earn_profile": {
+        "message": "Profil"
+      },
+      "settings_text": {
+        "message": "Indstillinger"
+      },
+      "settings_lang": {
+        "message": "Skift sprog"
+      },
+      "theme_text": {
+        "message": "Mørk tilstand"
+      },
+      "sign_in_button": {
+        "message": "Log på"
+      },
+      "register_button": {
+        "message": "Tilmeld"
+      },
+      "login_text": {
+        "message": "Log ind eller registrer dig for at bruge vores cashback-plugin"
+      },
+      "pw_main_button": {
+        "message": "Aktiver Cashback"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback aktiveret"
+      },
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Dansk"
+    }
+  }

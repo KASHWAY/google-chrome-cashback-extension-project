@@ -1,0 +1,50 @@
+{
+  "Home": {
+    "message": "בַּיִת"
+  },
+  "Shops_footer": {
+      "message": "חנויות"
+    },
+    "Earn_footer": {
+      "message": "לעשות כסף"
+    },
+    "Earn_profile": {
+      "message": "פּרוֹפִיל"
+    },
+    "settings_text": {
+      "message": "הגדרות"
+    },
+    "settings_lang": {
+      "message": "שנה שפה"
+    },
+    "theme_text": {
+      "message": "צב כהה"
+    },
+    "sign_in_button": {
+      "message": "התחברות"
+    },
+    "register_button": {
+      "message": "הירשם"
+    },
+    "login_text": {
+      "message": "התחבר או הירשם כדי להשתמש בתוסף ה-cashback שלנו"
+    },
+    "pw_main_button": {
+      "message": "कैशबैक सक्रिय करें"
+    },
+    "pw_main_button_ac": {
+      "message": "कैशबैक सक्रिय"
+    },
+
+
+
+
+
+
+
+
+
+  "jezyk": {
+    "message": "বাংলা"
+  }
+}

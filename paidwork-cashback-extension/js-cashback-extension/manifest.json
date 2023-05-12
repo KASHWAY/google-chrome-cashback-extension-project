@@ -1,0 +1,43 @@
+{
+    "name": "Cashback service Paidwork",
+    "version": "1.2",
+    "default_locale": "en",
+    "description": "Get cashback for shopping online with Paidwork!",
+    "manifest_version": 3,
+    "author": "paidwork",
+    "icons": {
+        "100": "img/icon100.png",
+        "128": "img/icon128x128.png"
+    },
+    "action":{
+        "default_title": "Cashback extension",
+        "default_popup": "cashback-extension.html",
+        "default_icon": "img/icon100.png"
+    },
+    "background": {
+        "service_worker": "scripts/background.js"
+    },
+    "permissions": [
+        "tabs", 
+        "activeTab", 
+        "scripting",
+        "unlimitedStorage",
+        "cookies",
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["https://*/*"],
+            "css": ["css/popup.css", "css/box.css"],
+            "js": ["scripts/box-click.js"],
+            "exclude_globs": ["https//www.google.com/*" , "*google.com*","*youtube*"],
+            "run_at": "document_start"
+        }
+    ],
+    "host_permissions": [
+        "https://*/*",
+        "http://*/*",
+        "<all_urls>"
+    ]
+
+}

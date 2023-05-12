@@ -1,0 +1,256 @@
+@keyframes slide-in {
+    from {
+        right: -300px;
+    }
+    to {
+        right: 10px;
+    }
+}
+  
+@keyframes slide-out {
+    from {
+        right: 10px;
+    }
+    to {
+        right: -300px;
+    }
+}
+.pw_popup {
+    font-family: 'Poppins', sans-serif;
+    display: none;
+    position: fixed;
+    top: 10px;
+    right: -300px;
+    margin-right: 2%;
+    margin-top: 2%;
+    height: 300px;
+    width: 250px;
+    border-radius: 15px;
+    background-color: white;
+    color: #404040;
+    z-index: 999999;
+    overflow: hidden;
+    box-shadow: 1px 1px 2px 2px #D4D4D4;
+}
+.pw_popup.show {
+    display: block;
+    animation: slide-in 0.5s forwards;
+}
+.pw_popup.hide {
+    animation: slide-out 0.5s forwards;
+}  
+.pw_popup_header {
+    width: 100%;
+    height: 25%;
+    border-bottom: 1px solid #D4D4D4;
+}
+.pw_popup_header_logo {
+    height: 100%;
+    width: 80%;
+    justify-content: center;
+}
+.pw_popup_header_logo img {
+    padding-left: 20px;
+    padding-top: 20px;
+    min-height: 35%;
+    max-height: 70%;
+    width: 50%;
+}
+.pw_popup_header_close {
+    position: absolute;
+    z-index: 1;
+    left: 200px;
+    top: 22.5px;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.pw_popup_header_close:hover {
+    cursor: pointer;
+}
+.pw_popup_main {
+    width: 100%;
+    height: 60%;
+    padding-top: 5%;
+}
+.pw_popup_main_partner-logo {
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    height: 40%;
+    border: 1px solid #D4D4D4;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.pw_popup_main_partner-logo img {   
+    width: auto;
+    height: auto;
+    max-width: 50%;
+    max-height: 50%;
+}
+.pw_popup_main_partner-cashback {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #3171FE;
+}
+.pw_popup_main_button-section {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.pw_popup_main_button-section button {
+    width: 40%;
+    height: 80%;
+    border-radius: 12px;
+    padding: 10px;
+    margin-left: 10px;
+    color: white;
+    background-color: #3171FE;
+    font-size: smaller;
+    border: none;
+    float: left;
+}
+.pw_popup_main_button-section button:hover {
+    cursor: pointer;
+    transform: scale(0.99);
+}
+
+
+/* MODAL CSS */
+
+.paidwork_modal {
+    font-family: 'Poppins', sans-serif;
+    color: #404040;
+    display: none; 
+    position: fixed;
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4);
+}
+
+.paidwork_modal_content {
+    background-color: white;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #3171FE;
+    height: auto;
+    width: 20%;
+    border-radius: 10px;
+}
+.paidwork_modal_content_header {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.paidwork_modal_content_header_close {
+    color: #404040;
+    float: right;
+    font-size: 40px;
+    font-weight: bold;
+    height: auto;
+    width: 50%;
+    justify-content: right;
+    text-align: right;
+    align-items: center;
+}
+  
+.paidwork_modal_content_header_close:hover,
+.paidwork_modal_content_header_close:focus {
+    color: gray;
+    text-decoration: none;
+    cursor: pointer;
+}
+.paidwork_modal_content_header_logo {
+    height: auto;
+    width: 50%;
+    float: left;
+}
+.paidwork_modal_content_header_logo:hover {
+    cursor: pointer;
+}
+.paidwork_modal_content_headline {
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+}
+.paidwork_modal_content_codes {
+    height: 40%;
+    width: 100%;
+    margin: 10% 10% 10% 0%;
+}
+.paidwork_modal_content_codes_code {
+    height: 20%;
+    width: 20%;
+    border: 1px solid #D4D4D4;
+    margin: 5% 40% 5% 40%;
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
+.paidwork_modal_content_result_text {
+    text-align: center;
+    margin-top: 10%;
+}
+.paidwork_modal_content_result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+}
+.paidwork_modal_content_result_best-code {
+    height: 20%;
+    width: 40%;
+    color: #404040;
+    background-color: greenyellow;
+    padding: 10px 0 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    font-size: auto;
+}
+.paidwork_modal_content_codes_code-animated {
+    transition: 1s;
+    background-color: #3171FE;
+    color: white;
+    font-weight: bold;
+}
+.paidwork_modal_content_footer {
+    height: 20%;
+    width: 100%;
+}
+.paidwork_modal_content_footer_text {
+    text-align: center;
+}
+#modalBar {
+    width: 10%;
+    height: 5px;
+    background-color: #3171FE;
+    text-align: center; 
+    line-height: 30px; 
+    color: white;
+    border-radius: 10px;
+}

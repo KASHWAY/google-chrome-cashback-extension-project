@@ -1,0 +1,49 @@
+{
+  "Home": {
+    "message": "家"
+  },
+  "Shops_footer": {
+      "message": "ショップ"
+    },
+    "Earn_footer": {
+      "message": "お金を稼ぐ"
+    },
+    "Earn_profile": {
+      "message": "プロフィール"
+    },
+    "settings_text": {
+      "message": "設定"
+    },
+    "settings_lang": {
+      "message": "言語を変えてくださ"
+    },
+    "theme_text": {
+      "message": "い"
+    },
+    "sign_in_button": {
+      "message": "ダークモード"
+    },
+    "register_button": {
+      "message": "ログイ登録"
+    },
+    "login_text": {
+      "message": "ログインまたは登録してキャッシュバックプラグインを使用する"
+    },
+    "pw_main_button": {
+      "message": "캐시백 활성화"
+    },
+    "pw_main_button_ac": {
+      "message": "캐쉬백 활성화"
+    },
+
+
+
+
+
+
+
+
+  "jezyk": {
+    "message": "한국어"
+  }
+}

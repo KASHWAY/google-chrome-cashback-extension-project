@@ -1,0 +1,49 @@
+{
+    "Home": {
+      "message": "บ้าน"
+    },
+    "Shops_footer": {
+        "message": "ร้านค้า"
+      },
+      "Earn_footer": {
+        "message": "หาเงิน"
+      },
+      "Earn_profile": {
+        "message": "ประวัติโดยย่อ"
+      },
+      "settings_text": {
+        "message": "การตั้งค่า"
+      },
+      "settings_lang": {
+        "message": "เปลี่ยนภาษา"
+      },
+      "theme_text": {
+        "message": "โหมดมืด"
+      },
+      "sign_in_button": {
+        "message": "เข้าสู่ระบบ"
+      },
+      "register_button": {
+        "message": "ลงทะเบียน"
+      },
+      "login_text": {
+        "message": "เข้าสู่ระบบหรือลงทะเบียนเพื่อใช้ปลั๊กอินคืนเงินของเรา"
+      },
+      "pw_main_button": {
+        "message": "เปิดใช้งานเงินคืน"
+      },
+      "pw_main_button_ac": {
+        "message": "เปิดใช้งานเงินคืน"
+      },
+  
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "ภาษาไทย"
+    }
+  }

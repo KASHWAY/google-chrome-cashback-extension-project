@@ -1,0 +1,49 @@
+{
+    "Home": {
+      "message": "Rumah"
+    },
+    "Shops_footer": {
+        "message": "Toko"
+      },
+      "Earn_footer": {
+        "message": "Menghasilkan uang"
+      },
+      "Earn_profile": {
+        "message": "Profil"
+      },
+      "settings_text": {
+        "message": "Pengaturan"
+      },
+      "settings_lang": {
+        "message": "Ganti BAHASA"
+      },
+      "theme_text": {
+        "message": "Mode Gelap"
+      },
+      "sign_in_button": {
+        "message": "Gabung"
+      },
+      "register_button": {
+        "message": "Daftar"
+      },
+      "login_text": {
+        "message": "Masuk Atau Daftar untuk menggunakan plugin cashback kami"
+      },
+      "pw_main_button": {
+        "message": "Aktifkan Uang Kembali"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback Diaktifkan"
+      },
+  
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "English (United Kingdom)"
+    }
+  }

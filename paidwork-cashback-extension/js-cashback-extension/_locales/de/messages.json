@@ -1,0 +1,48 @@
+{
+    "Home": {
+      "message": "Haus"
+    },
+    "Shops_footer": {
+        "message": "Geschäfte"
+      },
+      "Earn_footer": {
+        "message": "Geld verdienen"
+      },
+      "Earn_profile": {
+        "message": "Profil"
+      },
+      "settings_text": {
+        "message": "Einstellungen"
+      },
+      "settings_lang": {
+        "message": "Sprache ändern"
+      },
+      "theme_text": {
+        "message": "Dunkler Modus"
+      },
+      "sign_in_button": {
+        "message": "Anmeldung"
+      },
+      "register_button": {
+        "message": "Registrieren"
+      },
+      "login_text": {
+        "message": "Melden Sie sich an oder registrieren Sie sich, um unser Cashback-Plugin zu verwenden"
+      },
+      "pw_main_button": {
+        "message": "Cashback aktivieren"
+      },
+      "pw_main_button_ac": {
+        "message": "Cashback aktiviert"
+      },
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Deutsch"
+    }
+  }

@@ -1,0 +1,50 @@
+{
+  "Home": {
+    "message": "Casa"
+  },
+  "Shops_footer": {
+      "message": "tiendas"
+    },
+    "Earn_footer": {
+      "message": "Ganar dinero"
+    },
+    "Earn_profile": {
+      "message": "Perfil"
+    },
+    "settings_text": {
+      "message": "Ajustes"
+    },
+    "settings_lang": {
+      "message": "Cambiar idioma"
+    },
+    "theme_text": {
+      "message": "Modo oscuro"
+    },
+    "sign_in_button": {
+      "message": "Acceso"
+    },
+    "register_button": {
+      "message": "Registro"
+    },
+    "login_text": {
+      "message": "Inicie sesión o regístrese para usar nuestro complemento de devolución de dinero"
+    },
+    "pw_main_button": {
+      "message": "Activar reembolso"
+    },
+    "pw_main_button_ac": {
+      "message": "Reembolso activado"
+    },
+
+
+
+
+
+
+
+
+
+  "jezyk": {
+    "message": "Español"
+  }
+}

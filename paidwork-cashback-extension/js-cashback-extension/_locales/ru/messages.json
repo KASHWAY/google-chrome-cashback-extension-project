@@ -1,0 +1,49 @@
+{
+    "Home": {
+      "message": "Дом"
+    },
+    "Shops_footer": {
+        "message": "Магазины"
+      },
+      "Earn_footer": {
+        "message": "Зарабатывать"
+      },
+      "Earn_profile": {
+        "message": "Профиль"
+      },
+      "settings_text": {
+        "message": "Настройки"
+      },
+      "settings_lang": {
+        "message": "Изменить язык"
+      },
+      "theme_text": {
+        "message": "Темный режим"
+      },
+      "sign_in_button": {
+        "message": "Авторизоваться"
+      },
+      "register_button": {
+        "message": "регистр"
+      },
+      "login_text": {
+        "message": "Войдите или зарегистрируйтесь, чтобы использовать наш плагин кэшбэка"
+      },
+      "pw_main_button": {
+        "message": "«Активировать кэшбэк»"
+      },
+      "pw_main_button_ac": {
+        "message": "«Кэшбэк активирован»"
+      },
+  
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "Русский"
+    }
+  }

@@ -1,0 +1,48 @@
+{
+  "Home": {
+    "message": "Къща"
+  },
+  "Shops_footer": {
+      "message": "Магазини"
+    },
+    "Earn_footer": {
+      "message": "Правя пари"
+    },
+    "Earn_profile": {
+      "message": "Профил"
+    },
+    "settings_text": {
+      "message": "Настройки"
+    },
+    "settings_lang": {
+      "message": "Смени езика"
+    },
+    "theme_text": {
+      "message": "Тъмен режим"
+    },
+    "sign_in_button": {
+      "message": "Влизам"
+    },
+    "register_button": {
+      "message": "Регистрирам"
+    },
+    "login_text": {
+      "message": "Влезте или се регистрирайте, за да използвате нашия плъгин за връщане на париk"
+    },
+    "pw_main_button": {
+      "message": "Activate Cashback"
+    },
+    "pw_main_button_ac": {
+      "message": "Cashback Activated"
+    },
+
+
+
+
+
+
+
+  "jezyk": {
+    "message": "Bahasa Indonesia"
+  }
+}

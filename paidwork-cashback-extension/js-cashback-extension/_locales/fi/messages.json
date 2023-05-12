@@ -1,0 +1,50 @@
+{
+    "Home": {
+      "message": "Talo"
+    },
+    "Shops_footer": {
+        "message": "Kaupat"
+      },
+      "Earn_footer": {
+        "message": "Tehdä rahaa"
+      },
+      "Earn_profile": {
+        "message": "Profiili"
+      },
+      "settings_text": {
+        "message": "Ustawienia"
+      },
+      "settings_lang": {
+        "message": "asetukset"
+      },
+      "theme_text": {
+        "message": "Vaihda kieltä"
+      },
+      "sign_in_button": {
+        "message": "Tumma tila"
+      },
+      "register_button": {
+        "message": "Kirjaudu sisään"
+      },
+      "login_text": {
+        "message": "Rekisteröidy Kirjaudu sisään tai rekisteröidy käyttääksesi cashback-laajennusta"
+      },
+      "pw_main_button": {
+        "message": "I-activate ang Cashback"
+      },
+      "pw_main_button_ac": {
+        "message": "Na-activate ang Cashback"
+      },
+  
+  
+
+
+
+
+
+
+
+    "jezyk": {
+      "message": "English (United States)"
+    }
+  }

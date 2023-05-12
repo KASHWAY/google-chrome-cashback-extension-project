@@ -1,0 +1,55 @@
+{
+    "Home": {
+      "message": " منزل"
+    },
+    "Shops_footer": {
+        "message": "محلات"
+      },
+      "Earn_footer": {
+        "message": " جني المال"
+      },
+      "Earn_profile": {
+        "message": " حساب تعريفي"
+      },
+      "settings_text": {
+        "message": "إعدادات"
+      },
+      "settings_lang": {
+        "message": " تغيير اللغة"
+      },
+      "theme_text": {
+        "message": " الوضع الداكن"
+      },
+      "sign_in_button": {
+        "message": " تسجيل الدخول"
+      },
+      "register_button": {
+        "message": "يسجل"
+      },
+      "login_text": {
+        "message": " تسجيل الدخول أو التسجيل لاستخدام البرنامج المساعد استرداد النقود لدينا"
+      },
+      "pw_main_button": {
+        "message": "تنشيط استرداد النقود"
+      },
+      "pw_main_button_ac": {
+        "message": "تفعيل الاسترداد النقدي"
+      },
+
+
+     
+      
+     
+     
+     
+     
+     
+     
+
+
+
+
+    "jezyk": {
+      "message": "‏العربية‏"
+    }
+  }
